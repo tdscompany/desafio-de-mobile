@@ -1,6 +1,6 @@
 # **Desafio de Mobile**
 
-Criar um aplicativo nativo para **iOS** ou **Android** que liste cidades específicas (listadas abaixo) e, após a seleção de uma cidade pelo usuário, exiba uma tela de detalhes com informações do clima da cidade escolhida utilizando uma API pública de dados meteorológicos.
+Criar um aplicativo em React Native que liste cidades específicas (listadas abaixo) e, após a seleção de uma cidade pelo usuário, exiba uma tela de detalhes com informações do clima da cidade escolhida utilizando uma API pública de dados meteorológicos.
 
 ---
 
@@ -45,9 +45,7 @@ Criar um aplicativo nativo para **iOS** ou **Android** que liste cidades especí
             - Temperaturas para os períodos **Dawn** (3:00), **Morning** (9:00), **Afternoon** (15:00), **Night** (21:00).
 
 3. **Plataforma e ferramentas**:
-    - O candidato pode escolher entre:
-        - **Android**, utilizando **Kotlin**;
-        - **iOS**, utilizando **Swift**.
+    - Desenvolvimento utilizando **React Native**
 
 4. **Testes**:
     - Implementação de testes unitários básicos;
@@ -63,13 +61,15 @@ Criar um aplicativo nativo para **iOS** ou **Android** que liste cidades especí
 
 ## **Diferenciais**
 
-- Implementação de uma arquitetura bem estruturada (ex.: MVVM ou Clean Architecture);  
-- Uso de boas práticas para consumo de APIs (ex.: Retrofit para Android ou URLSession para iOS);  
-- Persistência de dados offline (ex.: SQLite, CoreData ou Room);  
-- Animações ou transições suaves entre telas.
+- Implementação de uma arquitetura bem estruturada;
+- Uso de boas práticas para consumo de APIs (ex.: Axios);
+- Persistência de dados offline (ex.: AsyncStorage ou Realm);
+- Animações ou transições suaves entre telas;
+- TypeScript;
+- Gerenciamento de estado (ex.: Redux, MobX ou Context API).
 
 ---
 
-Agora é com você! Escolha entre Android ou iOS, desenvolva o app, e envie o link para o repositório junto com o contato.
+Agora é com você! Desenvolva o app em React Native e envie o link para o repositório junto com o contato.
 
 Boa sorte! 🚀
